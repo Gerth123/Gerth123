@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="350" src="https://robin-gerth.de/assets/img/file_new.png"  />
+<img align="center" height="150" src="https://robin-gerth.de/assets/img/file_new.png"  />
 
 ###
 
