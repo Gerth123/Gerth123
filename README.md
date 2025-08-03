@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://robin-gerth.de/el_pollo_loco/img/9_intro_outro_screens/start/startscreen_2.png"  />
 
 ###
 
