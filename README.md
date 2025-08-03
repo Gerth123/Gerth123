@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://robin-gerth.de/assets/img/lurdwig.png"  />
+<img align="right" height="150" src="https://robin-gerth.de/assets/img/file_new.png"  />
 
 ###
 
