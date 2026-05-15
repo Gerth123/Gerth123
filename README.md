@@ -12,12 +12,6 @@
   <img src="./profile/top-langs.svg" height="150" alt="languages graph" />
 </div>
 
-<br>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,vue,symfony,mysql,docker,git,github,html,css,scss" alt="skills" />
-</div>
-
 ###
 
 <div align="left">
