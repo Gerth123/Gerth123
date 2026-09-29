@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=Gerth123&show_icons=true&hide_rank=true&theme=dracula&hide_border=false
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,7 +29,20 @@ jobs:
           card: top-langs
           options: username=Gerth123&layout=compact&langs_count=5&theme=dracula&hide_border=false
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
+
+      # Verwirft Fehler-SVGs, damit sie die funktionierenden Karten nicht ueberschreiben
+      - name: Verify cards
+        run: |
+          failed=0
+          for f in profile/stats.svg profile/top-langs.svg; do
+            if grep -Eq 'Something went wrong|Resource not accessible|Could not resolve|rate limit' "$f"; then
+              echo "::error::$f enthaelt eine Fehlerkarte"
+              git checkout -- "$f"
+              failed=1
+            fi
+          done
+          exit $failed
 
       - name: Commit cards
         run: |
