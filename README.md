@@ -1,94 +1,104 @@
-<h2 align="left">Hi 👋! My name is Robin and I'm a Full-Stack-Developer, from Dogern</h2>
+<h1 align="left">Robin Gerth</h1>
+<h3 align="left">Full-Stack Developer · Shopware 6 · Angular · Python</h3>
 
+<img align="right" height="170" src="https://robin-gerth.de/assets/img/file_new.png" alt="Robin Gerth" />
 
-###
+Ich baue E-Commerce- und Backend-Systeme, aktuell als Full-Stack Developer bei der
+ABC Design GmbH in Albbruck. Schwerpunkt: Shopware 6 (PHP/Symfony/Vue), Angular-Frontends
+und Python-Services. Daneben beschäftige ich mich mit der praktischen Integration von LLMs
+in bestehende Unternehmenssysteme, von RAG-Pipelines bis zu Sprachassistenten.
 
-<img align="left" height="150" src="https://robin-gerth.de/assets/img/file_new.png"  />
+Deutsch-Schweizer Doppelbürger, wohnhaft in Dogern direkt an der Schweizer Grenze.
 
-###
+📍 Dogern, DE &nbsp;·&nbsp; 🌐 [robin-gerth.de](https://robin-gerth.de) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/robin-gerth-47100031b/) &nbsp;·&nbsp; ✉️ [robingerth21@gmail.com](mailto:robingerth21@gmail.com)
 
-<div align="left">
-  <img src="./profile/stats.svg" height="150" alt="stats graph" />
-  <img src="./profile/top-langs.svg" height="150" alt="languages graph" />
-</div>
+<!--
+  Offensivere Variante fuer die aktive Bewerbungsphase, ersetzt den Doppelbuerger-Satz oben:
+  Deutsch-Schweizer Doppelbuerger mit Wohnsitz direkt an der Grenze. Offen fuer
+  Full-Stack- und AI-Integration-Rollen im Raum Basel und Aargau, ohne Bewilligungsaufwand.
+-->
 
-###
+<br clear="right" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuestorefront/vuestorefront-original.svg" height="40" alt="vuestorefront logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-</div>
+---
 
-###
+## Ausgewählte Projekte
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gerth123/Gerth123/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gerth123/Gerth123/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gerth123/Gerth123/output/pacman-contribution-graph.svg">
-</picture>
+### [conduit-container](https://github.com/Gerth123/conduit-container)
+Eine Legacy-Anwendung auf Django 1.10.5 ließ sich nicht auf modernem Python betreiben und hatte
+keinen reproduzierbaren Deploy-Weg. Ich habe sie vollständig containerisiert: Multi-Stage-Builds
+für Backend und Angular-Frontend, automatisierte Kompatibilitäts-Patches während des Builds,
+Gunicorn und Whitenoise statt Dev-Server, Nginx mit Fallback für Client-Side-Routing. Eine
+GitHub-Actions-Pipeline baut die Images, pusht sie nach GHCR und deployt per SSH auf eine Cloud-VM,
+sodass auf dem Zielserver nie gebaut wird.
 
-###
+`Django REST · Angular · PostgreSQL · Docker Compose · GitHub Actions · GHCR · Nginx`
+
+### [voice-agent](https://github.com/Gerth123/voice-agent)
+MVP eines KI-Sprachassistenten für eingehende Anrufe, ausgelegt auf EU-Hosting und
+Datensparsamkeit. Führt strukturierte Gesprächszusammenfassungen, bucht Termine direkt in
+freie Kalenderslots über iCal/CalDAV und meldet sich per WhatsApp. Die Provider für STT, TTS
+und LLM sind hinter Adaptern austauschbar, davor liegt eine eigene Privacy-Schicht.
+Klare KI-Offenlegung zu Gesprächsbeginn ist fest eingebaut.
+
+`FastAPI · Angular · Alembic · n8n · Docker Compose`
+
+### [Videoflix](https://github.com/Gerth123/Videoflix-Backend)
+Streaming-Plattform mit Django-REST-Backend und Angular-Frontend. Video-Uploads werden
+asynchron über Django RQ und Redis verarbeitet, Thumbnails per FFmpeg generiert, damit
+Requests nicht blockieren. Dazu vollständiger Auth-Flow mit Registrierung, Mail-Aktivierung
+und Passwort-Reset. Frontend im
+[zugehörigen Repository](https://github.com/Gerth123/Videoflix-Frontend).
+
+`Django REST · Angular · PostgreSQL · Redis · Django RQ · FFmpeg`
+
+---
+
+## Stack
+
+**Backend** &nbsp; PHP · Symfony · Shopware 6 · Python · Django · DRF · FastAPI · Redis / RQ
+**Frontend** &nbsp; TypeScript · Angular · Vue · JavaScript · SCSS
+**Daten** &nbsp; PostgreSQL · SQLite · Redis
+**Infrastruktur** &nbsp; Linux · Docker · Docker Compose · GitHub Actions · Nginx
+**Testing** &nbsp; PHPUnit · pytest
+**Weiteres** &nbsp; Kotlin (Android) · LLM-Integration · RAG · n8n
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/robin-gerth-47100031b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/1141644444026810509" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:robingerth21@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/robingerth11/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="36" alt="Symfony" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" alt="Angular" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="Django" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
 </div>
 
-###
+---
+
+## Hintergrund
+
+Quereinsteiger mit ungewöhnlichem Weg: drei Jahre Polizeivollzugsdienst in Baden-Württemberg,
+Streifendienst und Ermittlungen, davor eine kaufmännische Ausbildung im Elektronikfachhandel.
+Den Umstieg in die Entwicklung habe ich berufsbegleitend über eine 21-monatige
+Full-Stack-Ausbildung gemacht und arbeite seit Juni 2025 hauptberuflich als Entwickler.
+
+Was ich aus der Zeit davor mitnehme: strukturiertes Vorgehen unter Zeitdruck, saubere
+Dokumentation und die Gewohnheit, Sachverhalte zu klären statt anzunehmen.
+
+---
+
+<img src="./profile/top-langs.svg" height="150" alt="Meistgenutzte Sprachen" />
