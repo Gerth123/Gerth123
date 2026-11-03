@@ -1,12 +1,13 @@
 <h1 align="left">Robin Gerth</h1>
-<h3 align="left">Full-Stack Developer · Shopware 6 · Angular · Python</h3>
+<h3 align="left">Full-Stack Developer · Shopware 6 · Angular · Python · DevSecOps</h3>
 
 <img align="right" height="170" src="https://robin-gerth.de/assets/img/file_new.png" alt="Robin Gerth" />
 
 Ich baue E-Commerce- und Backend-Systeme, aktuell als Full-Stack Developer bei der
 ABC Design GmbH in Albbruck. Schwerpunkt: Shopware 6 (PHP/Symfony/Vue), Angular-Frontends
 und Python-Services. Daneben beschäftige ich mich mit der praktischen Integration von LLMs
-in bestehende Unternehmenssysteme, von RAG-Pipelines bis zu Sprachassistenten.
+in bestehende Unternehmenssysteme, von RAG-Pipelines bis zu Sprachassistenten, mit Fokus auf
+Sicherheit und Datenschutz.
 
 Deutsch-Schweizer Doppelbürger, wohnhaft in Dogern direkt an der Schweizer Grenze.
 
@@ -60,6 +61,7 @@ und Passwort-Reset. Frontend im
 **Frontend** &nbsp; TypeScript · Angular · Vue · JavaScript · SCSS
 **Daten** &nbsp; PostgreSQL · SQLite · Redis
 **Infrastruktur** &nbsp; Linux · Docker · Docker Compose · GitHub Actions · Nginx
+**Security** &nbsp; DevSecOps · OWASP Top 10 · Secure CI/CD · DSGVO
 **Testing** &nbsp; PHPUnit · pytest
 **Weiteres** &nbsp; Kotlin (Android) · LLM-Integration · RAG · n8n
 
@@ -89,12 +91,26 @@ und Passwort-Reset. Frontend im
 
 ---
 
+## Weiterbildung
+
+**DevSecOps** · Developer Akademie · 2026
+Sicherheit über den gesamten Entwicklungszyklus: CI/CD-Pipelines, Container, Secrets-Management
+und Schwachstellen nach OWASP.
+
+**Datenschutzbeauftragter (DSB)** · 2026
+Datenschutzanforderungen nach DSGVO in der Praxis, besonders relevant für KI- und RAG-Anwendungen.
+
+**Full-Stack-Entwicklung** · Developer Akademie · 2023 bis 2025
+21-monatige berufsbegleitende Ausbildung in Frontend und Backend, 16 Projekte.
+
+---
+
 ## Hintergrund
 
 Quereinsteiger mit ungewöhnlichem Weg: drei Jahre Polizeivollzugsdienst in Baden-Württemberg,
 Streifendienst und Ermittlungen, davor eine kaufmännische Ausbildung im Elektronikfachhandel.
-Den Umstieg in die Entwicklung habe ich berufsbegleitend über eine 21-monatige
-Full-Stack-Ausbildung gemacht und arbeite seit Juni 2025 hauptberuflich als Entwickler.
+Den Umstieg in die Entwicklung habe ich berufsbegleitend gemacht und arbeite seit Juni 2025
+hauptberuflich als Entwickler.
 
 Was ich aus der Zeit davor mitnehme: strukturiertes Vorgehen unter Zeitdruck, saubere
 Dokumentation und die Gewohnheit, Sachverhalte zu klären statt anzunehmen.
