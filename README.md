@@ -102,8 +102,14 @@ Acht Praxisprojekte, darunter [conduit-container](https://github.com/Gerth123/co
 **Zertifizierter Datenschutzbeauftragter** (Grundlagenzertifikat im Rahmen der DevSecOps-Weiterbildung) · Developer Akademie · 10/2026
 DSGVO, Rechte der Betroffenen, BSI-Grundschutz, ISO 27001, rechtliche Grundlagen.
 
-**Full-Stack-Entwicklung** · Developer Akademie · 2023 bis 2025
-21-monatige berufsbegleitende Ausbildung in Frontend und Backend, 16 Projekte.
+**Softwareentwickler Web-Anwendungen, Back-End** · Developer Akademie · 04/2025
+Django, DRF, PostgreSQL, Redis und Task Queues, REST-APIs, Deployment mit Docker und Cloud.
+
+**Softwareentwickler Web-Anwendungen, Front-End** · Developer Akademie · 12/2024
+Angular, TypeScript, JavaScript, Teamprojekte nach SCRUM.
+
+**KI und Agentic Coding** · Everlast · 2026
+Claude Code Masterclass (05/2026) · KI-Manager, Einführung generativer KI im Unternehmen (04/2026)
 
 ---
 
