@@ -61,7 +61,7 @@ und Passwort-Reset. Frontend im
 **Frontend** &nbsp; TypeScript · Angular · Vue · JavaScript · SCSS
 **Daten** &nbsp; PostgreSQL · SQLite · Redis
 **Infrastruktur** &nbsp; Linux · Docker · Docker Compose · GitHub Actions · Nginx
-**Security** &nbsp; DevSecOps · OWASP Top 10 · Secure CI/CD · DSGVO
+**Security** &nbsp; OWASP Top 10 · Kali Linux · Container-Security · Secure CI/CD · DSGVO
 **Testing** &nbsp; PHPUnit · pytest
 **Weiteres** &nbsp; Kotlin (Android) · LLM-Integration · RAG · n8n
 
@@ -93,12 +93,14 @@ und Passwort-Reset. Frontend im
 
 ## Weiterbildung
 
-**DevSecOps** · Developer Akademie · 2026
-Sicherheit über den gesamten Entwicklungszyklus: CI/CD-Pipelines, Container, Secrets-Management
-und Schwachstellen nach OWASP.
+**DevSecOps Spezialist, Schwerpunkt Cloud und Automation** · Developer Akademie · 10/2026
+Web-Anwendungssicherheit (OWASP Top 10, XSS, Injections), Passwort-Sicherheit und Hashing,
+Linux-Härtung (SSH, Fail2ban), Pentesting mit Kali Linux und OWASP Juice Shop, eigene
+Pentesting-Tools in Python, Container- und Cloud-Sicherheit, CI/CD mit GitHub Actions.
+Acht Praxisprojekte, darunter [conduit-container](https://github.com/Gerth123/conduit-container).
 
-**Datenschutzbeauftragter (DSB)** · 2026
-Datenschutzanforderungen nach DSGVO in der Praxis, besonders relevant für KI- und RAG-Anwendungen.
+**Zertifizierter Datenschutzbeauftragter** (Grundlagenzertifikat im Rahmen der DevSecOps-Weiterbildung) · Developer Akademie · 10/2026
+DSGVO, Rechte der Betroffenen, BSI-Grundschutz, ISO 27001, rechtliche Grundlagen.
 
 **Full-Stack-Entwicklung** · Developer Akademie · 2023 bis 2025
 21-monatige berufsbegleitende Ausbildung in Frontend und Backend, 16 Projekte.
